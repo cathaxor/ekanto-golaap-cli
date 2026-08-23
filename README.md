@@ -69,7 +69,7 @@ No external Python packages are required.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ekanto-golaap-cli.git
+git clone https://github.com/cathaxor/ekanto-golaap-cli.git
 ```
 
 Enter the project directory:
@@ -425,7 +425,7 @@ Windows Terminal is recommended.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ekanto-golaap-cli.git
+git clone https://github.com/cathaxor/ekanto-golaap-cli.git
 cd ekanto-golaap-cli
 ```
 
